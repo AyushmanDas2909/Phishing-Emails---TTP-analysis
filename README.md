@@ -3,7 +3,7 @@ This repository documents the analysis of a real-world phishing email sample use
 
 
 1. Project Goal-
-2. 
+   
 The primary goal of this exercise was to practice identifying advanced social engineering and technical red flags within a suspicious email, generating a detailed security analysis, and documenting the process.
 
 
