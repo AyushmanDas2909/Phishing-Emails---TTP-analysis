@@ -9,6 +9,8 @@ The primary goal of this exercise was to practice identifying advanced social en
 
 3. Step-by-Step Process-
 
+      - (FIRST I USED ONLINE SEARCH RESULTS AND TOOK HELP OF AI TO CREATE MY OWN SAMPLE OF THE PHISHING EMAIL INSTEAD OF USING ONE THAT I FOUND SOMEWHERE)
+
 -Below is a log of the actions taken to analyze and document this phishing attempt:
 
 -Submission of Sample Email: The raw phishing email content (SAMPLE EMAIL - phishing attempt.md) was submitted for review.
