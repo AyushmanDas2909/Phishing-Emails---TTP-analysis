@@ -1,8 +1,8 @@
 
-Phishing Email Analysis Project:
+## Phishing Email Analysis Project:
 ---
 
-This repository documents the analysis of a real-world phishing email sample used for educational and security training purposes.
+## This repository documents the analysis of a real-world phishing email sample used for educational and security training purposes.
 
 ---
 
