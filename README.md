@@ -12,7 +12,7 @@ The primary goal of this exercise was to practice identifying advanced social en
 
 ---
 
-3. Step-by-Step Process-
+2. Step-by-Step Process-
 
 
 -Below is a log of the actions taken to analyze and document this phishing attempt:
