@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-### 
+##
 
 ### I. Executive Summary-
 
@@ -16,17 +16,15 @@ The email titled "URGENT: Your Corporate Access Will Be Revoked in 24 Hours!" is
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-### II. Detailed Analysis of Red Flags-
-
-
+# II. Detailed Analysis of Red Flags-
 
 The following points detail the specific suspicious elements found in the email and how they reveal the malicious intent.
 
 
 
-1\. Urgency and Threatening Tone
 
 
+### 1\. Urgency and Threatening Tone
 
 Suspicious Element: The subject line and body contain extreme threats like "URGENT," "Will Be Revoked in 24 Hours!," and "FAILURE TO ACT WITHIN 24 HOURS WILL RESULT IN THE PERMANENT SUSPENSION..."
 
@@ -114,3 +112,4 @@ Delete: Permanently delete the email from your inbox and deleted items folder.
 
 
 ---
+
